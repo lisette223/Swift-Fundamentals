@@ -35,7 +35,7 @@ var currentScore = 0
 let studentName = "Jordan"
 
 // TODO 1: Create a variable called `livesRemaining` and set it to 3.
-
+print("dddbvb")
 
 // TODO 2: Create a constant called `courseName` and set it to "App Dev with Swift".
 
